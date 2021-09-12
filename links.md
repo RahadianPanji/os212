@@ -1,9 +1,12 @@
 ---
-layout: "layout"
+layout: default
 permalink: /LINKS/
 ---
 
 # Useful Links
 
-- [CLIs you should know](https://www.hostinger.com/tutorials/linux-commands)
-- [I first learned vi from here](https://www.guru99.com/the-vi-editor.html)
+- [Linux Commands](https://www.hostinger.com/tutorials/linux-commands)
+Linux commands list (CLI). Can be a useful side note when working in terminal.
+
+- [Vi Tutorial](https://www.guru99.com/the-vi-editor.html)
+Helped me get started using vi. The concept and the syntax is well-written.
