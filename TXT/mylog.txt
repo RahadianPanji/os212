@@ -20,3 +20,14 @@ ZCZC W01 40 L16 add LINKS to github page
 ZCZC W01 10 L17 update this log
 ZCZC W01 20 L18 dive a little bit deeper into regex, sed and awk
 ZCZC W01 30 L19 Simply read through the moduls
+ZCZC W02 40 L11	Read chapter 16 and 17
+ZCZC W02 20 L12 experimenting with chmod and see the C codes in demos
+ZCZC W02 105 L13 Watch the video generally
+ZCZC W02 15 L14 Generate GPG key
+ZCZC W02 15 L15 See all of my GPG keys
+ZCZC W02 10 L16 import gpg key from osp4diss
+ZCZC W02 10 L17 Sign the gpg key from osp4diss
+ZCZC W02 15 L18 add my gpg key to TXT/mypubkey.txt
+ZCZC W02 45 L19 add some new links to LINKS
+ZCZC W02 60 L20 Assignment#10 - Assignment#13 (peer's link review, generate SHA256SUM, update log)
+
