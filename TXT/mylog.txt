@@ -30,4 +30,13 @@ ZCZC W02 10 L17 Sign the gpg key from osp4diss
 ZCZC W02 15 L18 add my gpg key to TXT/mypubkey.txt
 ZCZC W02 45 L19 add some new links to LINKS
 ZCZC W02 60 L20 Assignment#10 - Assignment#13 (peer's link review, generate SHA256SUM, update log)
+ZCZC W03 60 L11 Read OSC chapter 13 + 14 + 15
+ZCZC W03 30 L12 Try this week's demos
+ZCZC W03 15 L13 Try some previous midterm problems although it's confusing enough
+ZCZC W03 10 L14 check my .bash_aliases
+ZCZC W03 50 L15 Create an extra virtual disk for my guest, including mounting and changing ownership
+ZCZC W03 30 L16 Add some useful links to my github
+ZCZC W03 20 L17 Review peer links
+ZCZC W03 10 L18 Update this log
+ZCZC W03 20 L19 Submit this week's assignment (which I will do right after updating this log)
 
