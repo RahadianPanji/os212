@@ -30,6 +30,7 @@ ZCZC W02 10 L17 Sign the gpg key from osp4diss
 ZCZC W02 15 L18 add my gpg key to TXT/mypubkey.txt
 ZCZC W02 45 L19 add some new links to LINKS
 ZCZC W02 60 L20 Assignment#10 - Assignment#13 (peer's link review, generate SHA256SUM, update log)
+ZCZC W03 120 L02 OS Zoom Meeting
 ZCZC W03 60 L11 Read OSC chapter 13 + 14 + 15
 ZCZC W03 30 L12 Try this week's demos
 ZCZC W03 15 L13 Try some previous midterm problems although it's confusing enough
