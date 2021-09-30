@@ -40,4 +40,16 @@ ZCZC W03 30 L16 Add some useful links to my github
 ZCZC W03 20 L17 Review peer links
 ZCZC W03 10 L18 Update this log
 ZCZC W03 20 L19 Submit this week's assignment (which I will do right after updating this log)
+ZCZC W04 120 L02 OS Zoom Meeting
+ZCZC W04 100 L11 Read OSC chapter 9
+ZCZC W04 30 L12 Try this week's demos
+ZCZC W04 15 L13 Read previous midterm problems
+ZCZC W04 10 L14 Install Package List 2 (TLPI)
+ZCZC W04 80 L15 Download, compile, and move the required files
+ZCZC W04 30 L16 Update my links
+ZCZC W04 20 L17 Review peer links
+ZCZC W04 10 L18 Update this log
+ZCZC W04 20 L19 Submit this week's assignment (which I will do right after updating this log)
+ZCZC W04 60 L05 Study for and do this week's quiz
+ZCZC W04 30 L08 Ask asdos of problems I encounter
 

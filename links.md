@@ -32,3 +32,15 @@ Explain it deeper. Explain every directory more detailed but simple.
 - [FUSE Complete Documentation](https://www.kernel.org/doc/html/latest/filesystems/fuse.html) <br>
 Useful if you're looking for something very detailed. It's fairly hard to read but easy to search if you have a keyword.
 
+- [Memahami Static dan Shared Library di Linux](https://cintaprogramming.com/2018/02/14/memahami-static-dan-shared-library-di-linux/) <br>
+What does static/shared library means, and some examples in Indonesian. But a bit confusing and lengthy.
+
+- [What is Paging](https://www.youtube.com/watch?v=pJ5ezHfJokw) <br>
+A quick explanation of what is paging. But doesn't provide deeper explanation as it only explains in a nutshell.
+
+- [More in Paging](https://www.geeksforgeeks.org/paging-in-operating-system/) <br>
+Deeper explanation of paging. Explains what is, how it is mapped, how to use the page table, etc.
+
+- [Pointers in C](https://www.guru99.com/c-pointers.html) <br>
+What is pointer, how to create, manipulate, and use it in C. Recommended to read this before reading the examples in slide.
+
