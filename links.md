@@ -44,3 +44,12 @@ Deeper explanation of paging. Explains what is, how it is mapped, how to use the
 - [Pointers in C](https://www.guru99.com/c-pointers.html) <br>
 What is pointer, how to create, manipulate, and use it in C. Recommended to read this before reading the examples in slide.
 
+- [Memory Management in OS](https://www.tutorialspoint.com/operating_system/os_memory_management.htm) <br>
+Simple explanations about memory address, static/dynamic loading and linking, swapping, memory alloc, fragmentation. The website has more tabs of topics about other OS stuff.
+
+- [Virtual Memory in OS](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/) <br>
+Geeksforgeeks article about Virtual Memory. Including demand paging, page fault, swapping, and thrashing.
+
+- [(Video) Silberschatz Chapter 9: Virtual Memory](https://www.youtube.com/watch?v=KTx9RNfyFO8) <br>
+Explanation of the Silberschatz slides by Hamid Mukhtar. Useful when you don't understand some part of the slide, you can watch this video.
+

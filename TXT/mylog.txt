@@ -52,4 +52,13 @@ ZCZC W04 10 L18 Update this log
 ZCZC W04 20 L19 Submit this week's assignment (which I will do right after updating this log)
 ZCZC W04 60 L05 Study for and do this week's quiz
 ZCZC W04 30 L08 Ask asdos of problems I encounter
+ZCZC W05 120 L02 OS Zoom Meeting
+ZCZC W05 100 L11 Read OSC chapter 10
+ZCZC W05 30 L12 Try this week's demos
+ZCZC W05 25 L13 Read previous midterm problems
+ZCZC W05 60 L14 Binary search the lowest memory my debian can handle, download, extract, modify, and copy
+ZCZC W05 30 L15 Update my links
+ZCZC W05 20 L17 Review peer links
+ZCZC W05 10 L18 Update this log
+ZCZC W05 20 L19 Submit this week's assignment (which I will do right after updating this log)
 
