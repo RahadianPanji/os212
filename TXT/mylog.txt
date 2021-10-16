@@ -61,4 +61,14 @@ ZCZC W05 30 L15 Update my links
 ZCZC W05 20 L17 Review peer links
 ZCZC W05 10 L18 Update this log
 ZCZC W05 20 L19 Submit this week's assignment (which I will do right after updating this log)
+ZCZC W06 120 L02 OS Zoom Meeting (1st meeting was asynchronous)
+ZCZC W06 135 L11 Read OSC chapter 3 and 4
+ZCZC W06 50 L12 Try to understand the demos this week
+ZCZC W06 30 L13 Surf through previous midterms problems
+ZCZC W06 40 L14 fork(), download, run script, and observe the result
+ZCZC W06 30 L15 update my bookmark links
+ZCZC W06 10 L16 Added a tips for next semester about the quiz time
+ZCZC W06 25 L17 Review peer links
+ZCZC W06 20 L18 Update this log
+ZCZC W06 20 L19 Submit this week's assignment (which I will do right after updating this log)
 

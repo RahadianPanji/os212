@@ -53,3 +53,13 @@ Geeksforgeeks article about Virtual Memory. Including demand paging, page fault,
 - [(Video) Silberschatz Chapter 9: Virtual Memory](https://www.youtube.com/watch?v=KTx9RNfyFO8) <br>
 Explanation of the Silberschatz slides by Hamid Mukhtar. Useful when you don't understand some part of the slide, you can watch this video.
 
+- [fork() in c](https://www.geeksforgeeks.org/fork-system-call/) <br>
+Explains what `fork()` does. With code example and illustration of a tree for the process.
+
+- [wait() in c](https://www.geeksforgeeks.org/wait-system-call-c/) <br>
+Explains what `wait()` does if combined with `fork()`. With code example and illustration of a tree for the process.
+
+- [What is a Process?](https://www.tutorialspoint.com/operating_system/os_processes.htm) <br>
+Definitions, states, PCB, and how a process is divided. There are other good stuff too in other tabs.
+
+
