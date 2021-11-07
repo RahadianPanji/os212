@@ -71,4 +71,13 @@ ZCZC W06 10 L16 Added a tips for next semester about the quiz time
 ZCZC W06 25 L17 Review peer links
 ZCZC W06 20 L18 Update this log
 ZCZC W06 20 L19 Submit this week's assignment (which I will do right after updating this log)
+ZCZC W07 150 L02 OS Zoom Meeting
+ZCZC W07 100 L11 Read OSC chapter 6, 7, 8
+ZCZC W07 40 L12 Try this week's demos
+ZCZC W07 30 L13 Read previous midterm problems
+ZCZC W07 80 L14 Fetch and extract and observe the process and the shared memory
+ZCZC W07 25 L15 Update my links
+ZCZC W07 20 L17 Review peer links
+ZCZC W07 10 L18 Update this log
+ZCZC W07 20 L19 Submit this week's assignment (which I will do right after updating this log)
 

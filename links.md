@@ -62,4 +62,16 @@ Explains what `wait()` does if combined with `fork()`. With code example and ill
 - [What is a Process?](https://www.tutorialspoint.com/operating_system/os_processes.htm) <br>
 Definitions, states, PCB, and how a process is divided. There are other good stuff too in other tabs.
 
+- [Process Synchronization in Linux](https://www.tutorialspoint.com/process-synchronization-in-linux) <br>
+How synchronization works in Linux. Additional information about Orphan processes and Daemon processes.
+
+- [Multithreading in C](https://www.geeksforgeeks.org/multithreading-c-2/) <br>
+How to manipulate threads in C language. Mainly use function pthread_create() and pthread_join().
+
+- [Mutex](https://www.geeksforgeeks.org/mutex-lock-for-linux-thread-synchronization/) <br>
+Explains how to synchronize Linux thread with mutex in C. The explanations is so detailed and there are many examples provided.
+
+- [Semaphore](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/) <br>
+Explains how to synchronize Linux thread with semaphore in C. The explanations is so detailed and there are many examples provided.
+
 
