@@ -74,13 +74,13 @@ Explains how to synchronize Linux thread with mutex in C. The explanations is so
 - [Semaphore](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/) <br>
 Explains how to synchronize Linux thread with semaphore in C. The explanations is so detailed and there are many examples provided.
 
-- [Scheduling](http://www2.cs.uregina.ca/~hamilton/courses/330/notes/scheduling/scheduling.html#:~:text=CPU%20burst%3A%20the%20amount%20of,%2FO%20bound%20(i.e.%20vi))
+- [Scheduling](http://www2.cs.uregina.ca/~hamilton/courses/330/notes/scheduling/scheduling.html#:~:text=CPU%20burst%3A%20the%20amount%20of,%2FO%20bound%20(i.e.%20vi)) <br>
 Definition, types of schedulers. Explains a bit about CPU burst.
 
-- [CPU Scheduling](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)
+- [CPU Scheduling](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/) <br>
 Algorithms of scheduling. SJF, SRTF, LRTF, Round Robin, HRRN, Multilevel Queue. Detailed with small quiz.
 
-- [Multiple-Processor Scheduling](https://www.geeksforgeeks.org/multiple-processor-scheduling-in-operating-system/)
+- [Multiple-Processor Scheduling](https://www.geeksforgeeks.org/multiple-processor-scheduling-in-operating-system/) <br>
 Multiple-processor scheduling with load sharing. Includes processor affinity, load balancing, multicore processors, etc.
 
 
