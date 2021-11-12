@@ -80,4 +80,14 @@ ZCZC W07 25 L15 Update my links
 ZCZC W07 20 L17 Review peer links
 ZCZC W07 10 L18 Update this log
 ZCZC W07 20 L19 Submit this week's assignment (which I will do right after updating this log)
+ZCZC W08 180 L02 OS Zoom Meeting
+ZCZC W08 80 L11 Read OSC chapter 5
+ZCZC W08 45 L12 Try this week's demos
+ZCZC W08 30 L13 Read previous Finalterm problems
+ZCZC W08 70 L14 Do LFS chapter 1 - 4
+ZCZC W08 360 L15 Do LFS chapter 5
+ZCZC W08 25 L16 Update my links
+ZCZC W08 15 L18 Review peer links
+ZCZC W08 10 L19 Update this log
+ZCZC W08 20 L20 Submit this week's assignment (which I will do right after updating this log)
 
