@@ -83,6 +83,14 @@ Algorithms of scheduling. SJF, SRTF, LRTF, Round Robin, HRRN, Multilevel Queue. 
 - [Multiple-Processor Scheduling](https://www.geeksforgeeks.org/multiple-processor-scheduling-in-operating-system/) <br>
 Multiple-processor scheduling with load sharing. Includes processor affinity, load balancing, multicore processors, etc.
 
+- [Storage Management](https://www.geeksforgeeks.org/storage-management/) <br>
+Storage management key attributes, features, and advantages. Explained neatly and simply.
+
+- [BIOS](https://www.geeksforgeeks.org/introduction-of-basic-input-output-system-bios/) <br>
+Power on Self Test, location of BIOS, etc. Completed with complementary metal oxide semiconductor RAM.
+
+- [UEFI](https://www.geeksforgeeks.org/uefiunified-extensible-firmware-interface-and-how-is-it-different-from-bios/) <br>
+Unified Extensible Firmware Interface. Differences and advantages of UEFI instead of BIOS.
 
 
 
